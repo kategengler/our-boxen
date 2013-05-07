@@ -16,6 +16,7 @@
 
 - Setup Firefox
   * Add Firefox Sync
+  * Set preferences for Add-ons
 
 - Setup Flint
   * Preferences -> Uncheck Play Campfire Sounds
