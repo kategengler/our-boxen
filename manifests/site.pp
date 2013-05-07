@@ -107,5 +107,6 @@ node default {
   include zsh
   include rdio
   include macvim
+  include java
 
 }

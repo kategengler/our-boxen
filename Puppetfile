@@ -34,6 +34,7 @@ github "sudo",     "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+github "java",                "1.1.0"
 github "keyremap4macbook",    "1.0.3"
 github "firefox",             "1.0.6"
 github "vagrant",             "2.0.6"
