@@ -27,8 +27,10 @@
 - Install Moom
 - Setup Messages
 - Setup KeyRemap4Mac
-  `ln -s ~/Dropbox/SoftwareSettings/KeyRemap4Mac ~/Library/ApplicationSupport/KeyRemap4Mac`
+  * `ln -s ~/Dropbox/SoftwareSettings/KeyRemap4Mac ~/Library/Application Support/KeyRemap4Mac`
 
+- Setup Adium
+  * `ln -s ~/Dropbox/Adium 2.0/ ~/Library/Application Support/Adium 2.0`
 - Setup Flint
   * Preferences -> Uncheck Play Campfire Sounds
   * Notifications -> All Messages -> Dock, Tab
