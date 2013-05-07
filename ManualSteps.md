@@ -131,6 +131,8 @@
   * Show fast users switching menu as Full Name -> On
   
 #TODO  
+- Add Java to Boxen
+- Remove 1password from Boxen
 - Calibrate display
 - Setup blue microphone
 
