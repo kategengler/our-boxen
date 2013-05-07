@@ -50,9 +50,43 @@
   * Size -> Just left of middle
   
   ### Security & Privacy
+  ##### General
   * Require password after sleep -> Off
   * Disable automatic login -> Off
   * Allow applications downloaded from -> Anywhere
+  ##### FileVault -> On
 
+  ### Spotlight
+  * Privacy -> Add dev directory
 
+  ### Energy Saver
+  * Computer Sleep -> Never
+  * Display Sleep -> 10 mins
+
+  ### Keyboard
+  ##### Keyboard
+  * Use all F1, F2, etc keys as standard function keys -> On
+
+  ### Print & Scan
+  * Add Brother printer
+
+  ### iCloud
+  * Calendars & Reminders -> No
+  * Back to my mac -> on
+
+  ### Mail, Contacts & Calendars
+  * Add Gmail account
+
+  ### Network
+  ##### DNS
+  * Replace DNS Servers with Google
+
+  ### Users & Groups
+  * Replace picture
+  * Disable guest
+  ##### Login Options
+  * Show fast users switching menu as Full Name -> On
+#TODO  
+- Calibrate display
+- Setup blue microphone
 
