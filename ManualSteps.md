@@ -17,6 +17,7 @@
 - Setup Firefox
   * Add Firefox Sync
   * Set preferences for Add-ons
+  * Manually add add-ons for 1password & Zootool
 
 - Setup Flint
   * Preferences -> Uncheck Play Campfire Sounds
