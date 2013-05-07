@@ -24,6 +24,7 @@
  
 - Sign into Skype
   * Preferences -> Notifications -> Uncheck Play sounds related to messages and play sounds related to contact availability
+  * `ln -s ~/Dropbox/SoftwareSettings/username.computername.skype ~/Library/Application Support/Skype/username`
 - Install Moom
 - Setup Messages
 - Setup KeyRemap4Mac
