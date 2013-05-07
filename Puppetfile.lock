@@ -114,6 +114,11 @@ GITHUBTARBALL
     onepassword (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-postgresapp
   specs:
     postgresapp (1.0.0)
@@ -198,6 +203,7 @@ DEPENDENCIES
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   onepassword (= 1.0.0)
+  osx (= 1.0.0)
   postgresapp (= 1.0.0)
   rdio (= 1.0.0)
   ruby (= 3.1.0)
