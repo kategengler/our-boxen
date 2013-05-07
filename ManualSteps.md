@@ -33,6 +33,9 @@
   * `ln -s ~/Dropbox/SoftwareSettings/iterm.plist ~/Library/Preferences/com.googlecode.iterm2.plist`
 - Setup Adium
   * `ln -s ~/Dropbox/Adium 2.0/ ~/Library/Application Support/Adium 2.0`
+ 
+- Setup RubyMine
+  * `ln -s ~/Dropbox/RubyMine Config/RubyMine50 ~/Library/Preferences/RubyMine50`
 - Setup Flint
   * Preferences -> Uncheck Play Campfire Sounds
   * Notifications -> All Messages -> Dock, Tab
