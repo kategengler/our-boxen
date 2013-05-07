@@ -106,7 +106,6 @@ node default {
   include crashplan
   include zsh
   include rdio
-  include onepassword
   include macvim
 
 }
