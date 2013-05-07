@@ -85,4 +85,28 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
+
+  include keyremap4macbook
+  include firefox
+  include vagrant
+  include dropbox
+  include tmux
+  include adium
+  include virtualbox
+  include alfred
+  include dockutil
+  include mysql
+  include iterm2::stable
+  include heroku
+  include postgresapp
+  include skype
+  include rubymine
+  include chrome
+  include memcached
+  include crashplan
+  include zsh
+  include rdio
+  include onepassword
+  include macvim
+
 }
