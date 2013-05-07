@@ -18,6 +18,16 @@
   * Add Firefox Sync
   * Set preferences for Add-ons
   * Manually add add-ons for 1password & Zootool
+ 
+- Setup Chrome
+  * Sign In
+ 
+- Sign into Skype
+  * Preferences -> Notifications -> Uncheck Play sounds related to messages and play sounds related to contact availability
+- Install Moom
+- Setup Messages
+- Setup KeyRemap4Mac
+  `ln -s ~/Dropbox/SoftwareSettings/KeyRemap4Mac ~/Library/ApplicationSupport/KeyRemap4Mac`
 
 - Setup Flint
   * Preferences -> Uncheck Play Campfire Sounds
