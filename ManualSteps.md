@@ -29,6 +29,8 @@
 - Setup KeyRemap4Mac
   * `ln -s ~/Dropbox/SoftwareSettings/KeyRemap4Mac ~/Library/Application Support/KeyRemap4Mac`
 
+- Setup iTerm2
+  * `ln -s ~/Dropbox/SoftwareSettings/iterm.plist ~/Library/Preferences/com.googlecode.iterm2.plist`
 - Setup Adium
   * `ln -s ~/Dropbox/Adium 2.0/ ~/Library/Application Support/Adium 2.0`
 - Setup Flint
