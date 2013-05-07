@@ -86,6 +86,7 @@
   * Disable guest
   ##### Login Options
   * Show fast users switching menu as Full Name -> On
+  
 #TODO  
 - Calibrate display
 - Setup blue microphone
