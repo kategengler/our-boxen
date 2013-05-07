@@ -10,6 +10,35 @@
 
 - Pull dotfiles repo & Install
 
+- Setup Dropbox & Sync
+
+- Setup 1Password
+
+- Setup Firefox
+  * Add Firefox Sync
+
+- Setup Flint
+  * Preferences -> Uncheck Play Campfire Sounds
+  * Notifications -> All Messages -> Dock, Tab
+  * Notifications -> Keywords -> Notification Center, Sound, words: KG, katie, kate
+  * Increase Text Size
+
+- Setup Evernote
+  * Preferences -> General -> Evernote helper -> All checkboxes
+  * Preferences -> Sync -> Sync my notes with Evernote -> Every 5 minutes
+  * Preferences -> Clipping -> After clipping: Play a sound -> Off
+  * Preferences -> Formatting -> Note text -> Helvetica Neue
+
+- Install Tweetbot & Sign in
+  ##### Preferences
+  
+  ###### General
+  * Sounds -> None
+  * Font Size -> Huge
+  
+  ###### Account
+  * Visual Sync Marker -> On
+
 - ## System Preferences
 
   ### Trackpad
