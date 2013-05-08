@@ -32,6 +32,8 @@
 - Setup Messages
 - Setup KeyRemap4Mac
   * `ln -s ~/Dropbox/SoftwareSettings/KeyRemap4Mac ~/Library/Application Support/KeyRemap4Mac`
+  
+- Install Qt
 
 - Setup iTerm2
   * `ln -s ~/Dropbox/SoftwareSettings/iterm.plist ~/Library/Preferences/com.googlecode.iterm2.plist`
