@@ -14,6 +14,8 @@
 
 - Setup 1Password
 
+- Install Timesink
+
 - Setup Firefox
   * Add Firefox Sync
   * Set preferences for Add-ons
@@ -148,6 +150,7 @@
   
 #TODO  
 - Add Java to Boxen
+- Add Qt to Boxen
 - Remove 1password from Boxen
 - Calibrate display
 - Setup blue microphone
