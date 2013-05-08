@@ -45,6 +45,11 @@
   * Notifications -> All Messages -> Dock, Tab
   * Notifications -> Keywords -> Notification Center, Sound, words: KG, katie, kate
   * Increase Text Size
+ 
+- Setup ssh
+  * ssh-keygen relevant keys
+  * Symlink config from dotfiles?
+  * `brew install ssh-copy-id`
 
 - Setup Evernote
   * Preferences -> General -> Evernote helper -> All checkboxes
