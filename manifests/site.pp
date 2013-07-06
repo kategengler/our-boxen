@@ -91,11 +91,9 @@ node default {
 
   include keyremap4macbook
   include firefox
-  include vagrant
   include dropbox
   include tmux
   include adium
-  include virtualbox
   include alfred
   include dockutil
   include mysql
@@ -111,5 +109,6 @@ node default {
   include rdio
   include macvim
   include java
-
+  include evernote
+  include omnifocus
 }
