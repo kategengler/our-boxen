@@ -20,9 +20,11 @@
   * Add Firefox Sync
   * Set preferences for Add-ons
   * Manually add add-ons for 1password & Zootool
+  * Choose to block everything in Ghostery
  
 - Setup Chrome
   * Sign In
+  * Choose to block everything in Ghostery
  
 - Setup Messages
   * `ln -s ~/Dropbox/SoftwareSettings/Messages.computername ~/Library/Messages`
