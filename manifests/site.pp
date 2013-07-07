@@ -110,3 +110,10 @@ node default {
   include macvim
   include java
 }
+
+dockutil::item { 'Add iTerm':
+        item     => "/Applications/iTerm.app",
+        label    => "iTerm",
+        action   => "add",
+        position => 2,
+    }
