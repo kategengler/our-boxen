@@ -109,6 +109,4 @@ node default {
   include rdio
   include macvim
   include java
-  include evernote
-  include omnifocus
 }
