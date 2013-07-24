@@ -26,26 +26,14 @@
   * Sign In
   * Choose to block everything in Ghostery
  
-- Setup Messages
-  * `ln -s ~/Dropbox/SoftwareSettings/Messages.computername ~/Library/Messages`
- 
 - Sign into Skype
   * Preferences -> Notifications -> Uncheck Play sounds related to messages and play sounds related to contact availability
-  * `ln -s ~/Dropbox/SoftwareSettings/username.computername.skype ~/Library/Application Support/Skype/username`
+
 - Install Moom
 - Setup Messages
 - Setup KeyRemap4Mac
   * `ln -s ~/Dropbox/SoftwareSettings/KeyRemap4Mac ~/Library/Application Support/KeyRemap4Mac`
   
-- Install Qt
-
-- Setup iTerm2
-  * `ln -s ~/Dropbox/SoftwareSettings/iterm.plist ~/Library/Preferences/com.googlecode.iterm2.plist`
-- Setup Adium
-  * `ln -s ~/Dropbox/Adium 2.0/ ~/Library/Application Support/Adium 2.0`
- 
-- Setup RubyMine
-  * `ln -s ~/Dropbox/RubyMine Config/RubyMine50 ~/Library/Preferences/RubyMine50`
 - Setup Flint
   * Preferences -> Uncheck Play Campfire Sounds
   * Notifications -> All Messages -> Dock, Tab
@@ -151,9 +139,6 @@
   * Show fast users switching menu as Full Name -> On
   
 #TODO  
-- Add Java to Boxen
-- Add Qt to Boxen
-- Remove 1password from Boxen
 - Calibrate display
 - Setup blue microphone
 
